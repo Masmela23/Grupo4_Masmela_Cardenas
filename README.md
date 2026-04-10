@@ -75,4 +75,3 @@ src/
 
 ---
 *Proyecto de Programación y Diseño Orientado a Objetos — Corhuila 2026*
-📋 Copiar
