@@ -28,6 +28,7 @@ src/
         │   ├── Libro.java
         │   ├── Revista.java
         │   ├── Audiolibro.java
+        │   ├── Video.java
         │   ├── Usuario.java
         │   ├── Prestamo.java
         │   ├── Reserva.java
@@ -38,9 +39,9 @@ src/
 ## 🔗 Explicación de Relaciones
 
 ### Herencia (──▷)
-- **Libro**, **Revista** y **Audiolibro** heredan de **RecursoDigital** 
+- **Libro**, **Revista**,**Audiolibro** y **Video** heredan de **RecursoDigital** 
   (clase abstracta).
-- Justificación: Los tres son tipos específicos de recurso digital que 
+- Justificación: Los cuatro son tipos específicos de recurso digital que 
   comparten atributos comunes (id, título, año, disponibilidad) pero 
   difieren en sus atributos propios.
 
